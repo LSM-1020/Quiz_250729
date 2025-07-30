@@ -21,7 +21,6 @@ public class Quiz03 {
 			str = str + "n"; 
 			System.out.print(str.charAt(2));
 		}
-
 		}	
 }
 }
